@@ -1,0 +1,6 @@
+C:\Users\Sadia Afrin\Desktop\C#\EvenAll\EvenAll\bin\Debug\EvenAll.exe.config
+C:\Users\Sadia Afrin\Desktop\C#\EvenAll\EvenAll\bin\Debug\EvenAll.exe
+C:\Users\Sadia Afrin\Desktop\C#\EvenAll\EvenAll\bin\Debug\EvenAll.pdb
+C:\Users\Sadia Afrin\Desktop\C#\EvenAll\EvenAll\obj\Debug\EvenAll.csprojResolveAssemblyReference.cache
+C:\Users\Sadia Afrin\Desktop\C#\EvenAll\EvenAll\obj\Debug\EvenAll.exe
+C:\Users\Sadia Afrin\Desktop\C#\EvenAll\EvenAll\obj\Debug\EvenAll.pdb
